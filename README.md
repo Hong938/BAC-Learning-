@@ -15,4 +15,4 @@ update 26/5
 
 l. open index.html
 2. Create stylesheet.css
-4. 12/6/2023 update 
+3. update readme
