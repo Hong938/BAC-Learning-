@@ -15,4 +15,4 @@ update 26/5
 
 l. open index.html
 2. Create stylesheet.css
-3. update readme 18/6
+3. Have fun
